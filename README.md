@@ -6,12 +6,12 @@
 
 
 ### Main Independent Projects and Webapplication:
-- Completation Project Course - System of Fineance Control with Documentation: ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)Completation Project Course - System of Fineance Control with Documentation:
 
   https://github.com/bibliotecaosmar/Sistema-de-Controle-Financeiro
 
-- Dashboard Project to Marketplace Players with Documentation:![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) Dashboard Project to Marketplace Players with Documentation:
 
   https://github.com/bibliotecaosmar/webapplication_commerce_manager_with_flask
 ---
