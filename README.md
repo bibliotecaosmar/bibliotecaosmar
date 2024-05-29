@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm Osmar, graduated systems analysis and development and aspiring data scientist. 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
 ---
 
