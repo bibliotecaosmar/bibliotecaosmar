@@ -1,9 +1,9 @@
 ## Hi, profissinal dectetive 🥸 that love technology 🛜💻 . . .
 
-### I'm Osmar, graduated systems analysis and development and aspiring data scientist. Also, a lover of simple solution using technology (principally python in my daily problems).
+#### I'm Osmar, graduated systems analysis and development and aspiring data scientist. Also, a lover of simple solution using technology (principally python in my daily problems).
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
 ---
-##About me
+## About me
 
 
 ### Main Independent Projects and Webapplication:
