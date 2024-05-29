@@ -3,7 +3,7 @@
 I'm Osmar, graduated systems analysis and development and aspiring data scientist. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
-
+---
 
 ### Main Independent Projects and Webapplication:
 - Completation Project Course - System of Fineance Control with Documentation:
@@ -16,7 +16,7 @@ I'm Osmar, graduated systems analysis and development and aspiring data scientis
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
+---
 
 <div>
    <a href="https://github.com/bibliotecaosmar">
