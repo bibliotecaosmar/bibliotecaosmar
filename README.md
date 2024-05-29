@@ -16,7 +16,6 @@
   https://github.com/bibliotecaosmar/webapplication_commerce_manager_with_flask
 ---
 
-
 <div>
    <a href="https://github.com/bibliotecaosmar">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibliotecaosmar&show_icons=true&include_all_commits=true&theme=radical&count_private=true"/>
