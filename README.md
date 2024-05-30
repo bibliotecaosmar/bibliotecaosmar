@@ -18,7 +18,7 @@
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) Dashboard Project to Marketplace Players with Documentation:
 
-  https://github.com/bibliotecaosmar/webapplication_commerce_manager_with_flask
+  https://github.com/bibliotecaosmar/Dashboard_Ecommerce_with_Flask
 
 ---
 
