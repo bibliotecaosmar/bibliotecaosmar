@@ -3,7 +3,7 @@
 #### I'm Osmar, graduated in systems analysis and development and aspiring data scientist. Also, a lover of simple solutions using technology (principally python in my daily problems).
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
 ---
-![## About me](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/img/about_me.gif)
+![## About me](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/img/about_me.png)
 - City: Fortaleza, Ceará in Brazil
 - Hobbies: Psychology Reading, Data Analysing, Puzzle Games. 
 
