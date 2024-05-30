@@ -2,12 +2,15 @@
 
 #### I'm Osmar, graduated in systems analysis and development and aspiring data scientist. Also, a lover of simple solutions using technology (principally python in my daily problems).
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
----
+
+
 ![## About me](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/img/about_me.png)
+---
 - City: Fortaleza, Ceará in Brazil
 - Hobbies: Psychology Reading, Data Analysing, Puzzle Games. 
 
 ![## Main Projects](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/img/main_projects.png)
+---
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) Completation Project Course - System of Fineance Control with Documentation:
 
   https://github.com/bibliotecaosmar/Sistema-de-Controle-Financeiro
@@ -16,7 +19,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) Dashboard Project to Marketplace Players with Documentation:
 
   https://github.com/bibliotecaosmar/webapplication_commerce_manager_with_flask
----
+
 
 
 <div>
