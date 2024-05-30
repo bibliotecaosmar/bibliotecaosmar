@@ -1,4 +1,4 @@
-## Hi, professinal dectetive 🥸 who loves technology 🛜💻 . . .
+## Hi, professional dectetive 🥸 who loves technology 🛜💻 . . .
 
 #### I'm Osmar, graduated in systems analysis and development and aspiring data scientist. Also, a lover of simple solutions using technology (principally python in my daily problems).
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
