@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
 ---
 ## About me
-
+City: Fortaleza, Ceará in Brazil
+Hobbies: Psychology Reading, Data Analysing, Puzzle Games. 
 
 ### Main Independent Projects and Webapplication:
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) Completation Project Course - System of Fineance Control with Documentation:
