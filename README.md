@@ -1,6 +1,6 @@
 ## Hi, professinal dectetive 🥸 who loves technology 🛜💻 . . .
 
-#### I'm Osmar, graduated in systems analysis and development and aspiring data scientist. Also, a lover of simple solutions using technology (principally python in my daily problems).
+#### I'm Osmar Pereira, graduated in systems analysis and development and aspiring data scientist. Also, a lover of simple solutions using technology (principally python in my daily problems).
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
 ---
 ## About me
@@ -17,6 +17,7 @@
 
   https://github.com/bibliotecaosmar/webapplication_commerce_manager_with_flask
 ---
+![New Projects](https://github.com/bibliotecaosmar/bibliotecaosmar.git/img/new_projects.gif)
 
 <div>
    <a href="https://github.com/bibliotecaosmar">
