@@ -20,7 +20,7 @@
 
   https://github.com/bibliotecaosmar/webapplication_commerce_manager_with_flask
 
-
+---
 
 <div>
    <a href="https://github.com/bibliotecaosmar">
