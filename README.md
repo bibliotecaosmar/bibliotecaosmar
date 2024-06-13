@@ -23,9 +23,9 @@
 ---
 
 <div>
-   <a href="https://github.com/MaickSilva">
+   <a href="https://github.com/bibliotecaosmar">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaickSilva&show_icons=true&include_all_commits=true&theme=radical&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaickSilva&layout=compact&langs_count=6&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibliotecaosmar&layout=compact&langs_count=6&theme=radical"/>
    </a>
 </div>
 
