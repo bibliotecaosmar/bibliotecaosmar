@@ -1,22 +1,22 @@
-## Hi, professional dectetive 🥸 who loves technology 🛜💻 . . .
+## Olá, sou desenvolvedor e utilizo scripts em python para facilitar a minha vida 🛜💻 . . .
 
-#### I'm Osmar, graduated in systems analysis and development and aspiring data scientist. Also, a lover of simple solutions using technology (principally python in my daily problems).
+#### Eu sou Osmar, graduado em Análise e Desenvolvimento de Software e um assíduo usuário de python. Amante de soluções simples para problemas do cotidiano.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
 
 
-![## About me](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/about_me.png)
+![## About me](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/sobre_mim.png)
 ---
-- City: Fortaleza, Ceará in Brazil
-- Hobbies: Psychology Reading, Data Analysing, Puzzle Games. 
+- Cidade: Fortaleza, Ceará in Brazil
+- Hobbies: Livros de psicologia, Data Analysing e qualquer puzzle. 
 
-![## Main Projects](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/main_projects.png)
+![## Main Projects](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/principais_projetos.png)
 ---
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) Completation Project Course - System of Fineance Control with Documentation:
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) Projeto de conclusão do curso - Sistema de Controle Financeiro (com Documentação):
 
   https://github.com/bibliotecaosmar/Sistema-de-Controle-Financeiro
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) Dashboard Project to Marketplace Players with Documentation:
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) Projeto de um Dashboard para Marketplace com Documentação:
 
   https://github.com/bibliotecaosmar/Dashboard_Ecommerce_with_Flask
 
