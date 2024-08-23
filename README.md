@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
 
 
-![## About me](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/sobre_mim.png)
+![## About me](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/sobre_mim2.png)
 ---
 - Cidade: Fortaleza, Ceará in Brazil
 - Hobbies: Livros de psicologia, Data Analysing e qualquer puzzle. 
@@ -17,7 +17,7 @@
 </div>
 
 
-![## Main Projects](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/principais_projetos.png)
+![## Main Projects](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/principais_projetos2.png)
 ---
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) Projeto de conclusão do curso - Sistema de Controle Financeiro (com Documentação):
 
