@@ -9,6 +9,14 @@
 - Cidade: Fortaleza, Ceará in Brazil
 - Hobbies: Livros de psicologia, Data Analysing e qualquer puzzle. 
 
+<div>
+   <a href="https://github.com/bibliotecaosmar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibliotecaosmar&show_icons=true&include_all_commits=true&theme=merko&count_private=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibliotecaosmar&layout=compact&langs_count=6&theme=merko&show_icons=true"/>
+   </a>
+</div>
+
+
 ![## Main Projects](https://github.com/bibliotecaosmar/bibliotecaosmar/blob/main/assets/principais_projetos.png)
 ---
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) Projeto de conclusão do curso - Sistema de Controle Financeiro (com Documentação):
@@ -22,12 +30,6 @@
 
 ---
 
-<div>
-   <a href="https://github.com/bibliotecaosmar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibliotecaosmar&show_icons=true&include_all_commits=true&theme=merko&count_private=true&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibliotecaosmar&layout=compact&langs_count=6&theme=merko&show_icons=true"/>
-   </a>
-</div>
 
 <!--
 **bibliotecaosmar/bibliotecaosmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
