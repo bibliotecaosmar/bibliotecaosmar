@@ -1,6 +1,6 @@
 ## Olá, sou desenvolvedor e utilizo scripts em python para facilitar a minha vida 🛜💻 . . .
 
-#### Eu sou Osmar, graduado em Análise e Desenvolvimento de Software e um assíduo usuário de python. Amante de soluções simples para problemas do cotidiano.
+#### Eu sou Jaki, graduado em Análise e Desenvolvimento de Software e um assíduo usuário de python. Amante de soluções simples para problemas do cotidiano.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-pereira-74b47b16a/)](https://www.linkedin.com/in/osmar-pereira-74b47b16a/)
 
 
